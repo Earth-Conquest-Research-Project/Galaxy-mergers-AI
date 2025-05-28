@@ -1,4 +1,4 @@
-# 🌌 Multimodal AI Model for Classifying Galaxy Mergers 🌌 
+# 🌌 MultimodalAI Model for Classifying Galaxy Mergers 🌌 
 
 🔭 캡스톤 스타트 : 우주정복 7팀 
 
