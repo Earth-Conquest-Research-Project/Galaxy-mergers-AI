@@ -78,7 +78,7 @@ TNG50-1 데이터
 <br/>
 
 
-## 🌌 연구 진행 노트
+## 연구 진행 노트
 
 <table style="width: 100%;  border: 3px solid Blue;  ">
   <tr>
