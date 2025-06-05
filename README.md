@@ -1,4 +1,4 @@
-# 🌌 MultimodalAI Model for Classifying Galaxy Mergers 🌌 
+# 🌌MultimodalAI Model for Classifying Galaxy Mergers🌌 
 
 🔭 캡스톤 스타트 : 우주정복 7팀 
 
@@ -6,86 +6,55 @@
 <small> 이미지 출처 : Kurzgesagt – In a Nutshell </small>
 
 <div style="border: 3px solid blue; padding: 10px; border-radius: 10px;">
+
+## 연구 주제
 <b> 은하 병합 여부를 분류하는 멀티모달 AI 모델 연구 개발 </b>
 <br/><br/>
-겉보기엔 고립된 은하처럼 보이지만 실제로는 병합 이력을 숨기고 있는 은하들 즉, post-merger imposter 은하를 찾아내는 멀티모달 AI 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합 전/중/직후/후 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다.
+천문 시뮬레이션 데이터를 기반으로 은하 간 병합 여부(O/X)와 병합의 시간 단계(Pre-merger / Ongoing / Post-merger)를 예측할 수 있는 멀티모달 AI 분류 모델을 개발한다. 이를 위해 은하 이미지와 물리량(질량, 속도, 별 형성률 등)을 결합해 병합의 시간 단계를 자동으로 분류하고, 시계열적 병합 이력까지 추정할 수 있는 AI 기반 은하 병합 탐지 시스템을 구축한다.
 <br/>
-
-
 </div>
 
-![기대 효과](./readMe_image/expected_effect.png)
-![추후 발전 가능성](./readMe_image/expected_effect2.png)
-![선행연구](./readMe_image/compare.png)
+<br/>
 
+## 기대 효과 및 발전 가능성
+<b> 기대효과 </b><br/>
+멀티모달 AI 기술을 활용해 대규모 관측 데이터에서 은하 충돌과 병합 사건을 자동으로 탐지함으로서 은하의 장기적 진화 양상을 이해하는데 기여한다.
+
+<b> 추후 발전 가능성 </b><br/>
+각 은하에 대해 충돌 시점, 동반 은하 후보, 충돌 횟수를 포함하는 시계열적 병합 이력 재구성을 통해 시간에 따른 유기적인 은하 진화 과정을 밝히는데 기여한다.
+
+<br/>
+
+## 성과
 <!-- 성과 칸 -->
-<br/> 
 🏆 한국천문연구원 SpaceAI 2025 연구 과제 선정 <br/>
-🏆 ???
-<br/><br/>
+<br/>
 
-## 🌌 연구 팀
+## 연구 팀
 
 ### 🔭 우주정복 캡스톤 7팀
-
-<table style="width: 100%;"> 
-  <tr>
-    <tr>
-    <th>정은채 
-    <a href="https://github.com/Goldchae" target="_blank">(Goldchae)</a>
-    </th>
-  </tr>
-  </tr>
-  <tr>
-    <td> 한 일 </td>
-  </tr>
-</table>
-
-<table style="width: 100%;"> 
-  <tr>
-    <tr>
-    <th>정은채 
-    <a href="https://github.com/Goldchae" target="_blank">(Goldchae)</a>
-    </th>
-  </tr>
-  </tr>
-  <tr>
-    <td> 한 일 </td>
-  </tr>
-</table>
-
+|                        이한나                     |                          정은채                      |                          정소은                        |
+|:------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------:|
+|             <img src="https://avatars.githubusercontent.com/u/89291223?s=400&u=64dcff931bf6efee8bb8cc371573472faa9b373f&v=4"/>             | <img src="https://avatars.githubusercontent.com/u/104445068?v=4"/> | <img src="https://avatars.githubusercontent.com/u/112189780?v=4"/> |
+|                     [@hannah0226](https://github.com/hannah0226)                      |            [@Goldchae](https://github.com/Goldchae)            |            [@sunnism03](https://github.com/sunnism03)            |
+| 한일한일 |   한일한일   |       한일한일   |    
 
 <br>
 <br/>
 
 ### 🔭 SYENERGI ( 세종-연세-이화 은하 상호작용 연구 네트워크 )
-![선행연구](./readMe_image/spaceAi.png)
-<table style="width: 100%;"> 
-  <tr>
-    <tr>
-    <th>정은채 
-    <a href="https://github.com/Goldchae" target="_blank">(Goldchae)</a>
-    </th>
-  </tr>
-  </tr>
-  <tr>
-    <td> 한 일 </td>
-  </tr>
-</table>
+|                        AI팀                    |                          천문학팀                      |
+|:------------------------------------------------:|:---------------------------------------------------------:|
+|                     이화여자대학교 컴퓨터공학전공                     |           연세대학교 천문우주학과, 세종대학교           |
+| 이한나, 정은채, 정소은 |   지웅배교수님, 강희수 연구원님, 이예진 연구원님, 김은택 연구원님   |
 
 
 <br/>
 <br/>
 
 
-### 🔭 서울대 황호성 교수님 랩실 서버 자원 지원
-- 
 
-<br/>
-<br/>
-<br/>
-
-## 🌌 연구 상세
+## 연구 상세
 
 ### 🔭 아키텍처 
 ![아키텍처](./readMe_image/architecture.png)
