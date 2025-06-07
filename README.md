@@ -37,7 +37,7 @@
 |:------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------:|
 |             <img src="https://avatars.githubusercontent.com/u/89291223?s=400&u=64dcff931bf6efee8bb8cc371573472faa9b373f&v=4"/>             | <img src="https://avatars.githubusercontent.com/u/104445068?v=4"/> | <img src="https://avatars.githubusercontent.com/u/112189780?v=4"/> |
 |                     [@hannah0226](https://github.com/hannah0226)                      |            [@Goldchae](https://github.com/Goldchae)            |            [@sunnism03](https://github.com/sunnism03)            |
-| 한일한일 |   한일한일   |       한일한일   |    
+| - |   -   |       -   |    
 
 <br>
 <br/>
@@ -66,11 +66,11 @@ TNG50-1 데이터
 
 -  병합 은하(Merger): 
 조건 : SnapNumLastMerger가 현재 snapshot 기준 0.5 Gyr 이내인 경우
-개수 : 개 
+개수 : - 개 
 
 - 비병합 은하(Non-merger):
 조건 : 병합 이력이 없거나 SnapNumLastMerger가 너무 오래 전인 경우
-개수: 개 
+개수: - 개 
 
 
 <br/>
@@ -85,7 +85,7 @@ TNG50-1 데이터
     <td>
       <h3>v1.0.0 (2025-3-)</h3>
       <ul>
-        <li><strong>아키텍처</strong>: late fusion, 물리량부- MLP, 이미지부 - zoobot ??  </li>
+        <li><strong>아키텍처</strong>: late fusion, 물리량부 - MLP, 이미지부 - zoobot -  </li>
         <li><strong>데이터</strong>: 물리량 랜덤값 세팅 </li>
         <li><strong>기타</strong>: </li>
       </ul>
