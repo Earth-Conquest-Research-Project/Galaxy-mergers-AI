@@ -60,8 +60,7 @@
 ![아키텍처](./readMe_image/architecture.png)
 
 ### 🔭 데이터
-![데이터](./readMe_image/data.png)
-### TNG
+
 TNG50-1 데이터
 
 -  병합 은하(Merger): 
