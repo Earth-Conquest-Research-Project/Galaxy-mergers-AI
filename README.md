@@ -57,7 +57,7 @@
 ## 연구 상세
 
 ### 🔭 아키텍처 
-![아키텍처](./readMe_image/architecture.png)
+![아키텍처](https://github.com/user-attachments/assets/9f2bd3b1-9ddb-4d38-b199-30c8f3d6e34d)
 
 ### 🔭 데이터
 
