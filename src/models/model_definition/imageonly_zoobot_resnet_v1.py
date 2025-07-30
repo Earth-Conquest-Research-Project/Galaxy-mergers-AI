@@ -7,6 +7,19 @@ Original file is located at
     https://colab.research.google.com/drive/10ioGLQ4VjWQUDdSSAc9BD2VPSgl8Zs-Y
 """
 
+import time
+import torch
+import torch.nn as nn
+import timm
+import pytorch_lightning as pl
+from torch.optim import Adam
+from torch.optim.lr_scheduler import ReduceLROnPlateau
+from sklearn.metrics import f1_score
+
+import timm
+from zoobot.pytorch.training.finetune import FinetuneableZoobotAbstract
+
+
 class ImageOnlyZoobotModelResNet(pl.LightningModule):
 
     def __init__(self, name: str, num_classes: int):
