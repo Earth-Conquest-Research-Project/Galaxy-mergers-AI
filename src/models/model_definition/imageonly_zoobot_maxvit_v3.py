@@ -17,7 +17,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 from sklearn.metrics import f1_score
 
 import timm
-import from zoobot.pytorch.training.finetune import FinetuneableZoobotAbstract
+from zoobot.pytorch.training.finetune import FinetuneableZoobotAbstract
 
 
 class ImageOnlyZoobotModelMaxViT(pl.LightningModule):
