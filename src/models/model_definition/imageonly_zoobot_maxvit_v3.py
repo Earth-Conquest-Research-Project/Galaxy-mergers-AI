@@ -7,6 +7,15 @@ Original file is located at
     https://colab.research.google.com/drive/1pnE28iMgejQmtykYeihsYI4TahSfOBjY
 """
 
+import pytorch_lightning as pl
+import torch
+import torch.nn as nn
+import time
+import numpy as np
+from torch.optim import Adam
+from torch.optim.lr_scheduler import ReduceLROnPlateau
+from sklearn.metrics import f1_score
+
 class ImageOnlyZoobotModelMaxViT(pl.LightningModule):
 
     def __init__(self, name: str, num_classes: int):
